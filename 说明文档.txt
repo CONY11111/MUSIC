@@ -1,0 +1,7 @@
+music-server   后台登录功能 
+music-client    前端的功能
+music-manage    后台的页面
+
+前端端口是8080
+后端端口是8888
+所以前端和后端是处于跨域的状态
